@@ -8,8 +8,8 @@
   
   Table of contents:
       
-  - [Usage](#usage)
   - [Installation](#installation)
+  - [Usage](#usage)
   - [How to Contribute](#how-to-contribute)
   - [Questions](#questions)
       
