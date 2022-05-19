@@ -21,7 +21,7 @@
   
   Depending on what the user would like to do, certain endpoints can perform CRUD operations (create, read, update, delete) on any of the tables in the database, specifically Categories, Products and Tags. (There is a fourth ProductTag table, but it serves only to connect the Product and Tag tables.)
   
-  Video on the usage goes further in depth here
+  Video on the usage goes further in depth [here](https://drive.google.com/file/d/1bofE-WjbI7QYtQGBv7cc1878BYrxW8gG/view)
   
   ## How to Contribute
       
